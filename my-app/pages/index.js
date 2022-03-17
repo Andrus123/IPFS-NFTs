@@ -182,7 +182,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by Andy</footer>
+      <footer className={styles.footer}>Made with &#10084; by Andrus</footer>
     </div>
   );
 }
